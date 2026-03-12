@@ -1,7 +1,7 @@
 # Wehkamp Wannagive Days Campaign Analysis
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Result](https://img.shields.io/badge/Fair-Role-Distribution-green)
+![Result](https://img.shields.io/badge/Fair-Role-Distribution-brightgreen)
 ---
 ## Project Overview
 
